@@ -2,12 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>http://growing.cc/</loc>
-  <lastmod>2018-12-25T19:51:01+08:00</lastmod>
-</url>
-
-<url>
-  <loc>http://growing.cc/15457256226888.html</loc>
-  <lastmod>2018-12-25T16:13:42+08:00</lastmod>
+  <lastmod>2018-12-25T20:00:07+08:00</lastmod>
 </url>
 
 <url>
@@ -16,10 +11,11 @@
 </url>
 
 
-
 <url>
-  <loc>http://growing.cc/growth-cases.html</loc>
+  <loc>http://growing.cc/about.html</loc>
+  <lastmod>2018-12-25T20:00:03+08:00</lastmod>
 </url>
+
 
 <url>
   <loc>http://growing.cc/growth-articles.html</loc>

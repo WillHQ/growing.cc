@@ -738,7 +738,7 @@ font-family: "PT Sans", "SF UI Display", ".PingFang SC","PingFang SC", "Neue Haa
 
 .article-wrap{ max-width: 640px;  padding: 0px 0px; }
 #main-content .article-wrap h1{border-bottom: solid 1px #eee; }
-#main-content .article-wrap h2{border-bottom: solid 1px #eee; }
+#main-content .article-wrap h2{border-bottom: solid 1px #eee; margin-top: 20px;}
 #main-content .article-wrap .article{ margin-bottom: 38px;}
 #main-content .article-wrap .article h1{border-bottom: none; margin: 0; padding: 0; padding-bottom: 8px; }
 

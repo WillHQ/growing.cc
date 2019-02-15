@@ -4,7 +4,7 @@
   <title><![CDATA[增长情报局]]></title>
   <link href="http://growing.cc/atom.xml" rel="self"/>
   <link href="http://growing.cc/"/>
-  <updated>2019-02-13T20:37:16+08:00</updated>
+  <updated>2019-02-15T18:48:34+08:00</updated>
   <id>http://growing.cc/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -25,6 +25,8 @@
 <p>Salesforce核心密码有三：一、严格的年度订阅使用费；二、充值消耗模式、信用卡绑定自动扣费模式；三、在线试用；四、IaaS/PaaS/SaaS一体化、公有云在线使用；五、多租户技术架构。</p>
 
 <p>核心观点是表达：只有用革命性的创新方案，才能解决2B业务的增长难点。</p>
+
+<span id="more"></span><!-- more -->
 
 <h2 id="toc_1">2. 实战解读增长黑客在B端业务中的应用</h2>
 
